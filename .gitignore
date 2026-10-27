@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# 本地导入的完整文献数据，不随仓库分发
+public/data/library.json
